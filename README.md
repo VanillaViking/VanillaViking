@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 My name is Ashwin. Currently an undergraduate student, I enjoy making computers do cool things. I find passion in collaborating on interesting projects as part of my learning journey.
 
 - 🔭 I’m currently working on ...
-
     - Zyenyo, a typing test discord bot with stats tracking.
     - SimplNotes, a markdown-to-html converter written in rust
 
@@ -29,3 +28,9 @@ My name is Ashwin. Currently an undergraduate student, I enjoy making computers 
 
 - ⚡ Fun fact: ...
     - One day I want to be a linux kernel developer
+
+<p align="center">
+  <a href="https://github.com/VanillaViking">
+    <img src="https://komarev.com/ghpvc/?username=VanillaViking&color=purple&style=flat)" />
+  </a>
+</p>
