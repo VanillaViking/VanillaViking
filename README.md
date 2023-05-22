@@ -31,6 +31,6 @@ My name is Ashwin. Currently an undergraduate student, I enjoy making computers 
 
 <p align="center">
   <a href="https://github.com/VanillaViking">
-    <img src="https://komarev.com/ghpvc/?username=VanillaViking&color=purple&style=flat)" />
+    <img src="https://komarev.com/ghpvc/?username=VanillaViking&color=blue&style=flat)" />
   </a>
 </p>
