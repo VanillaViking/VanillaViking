@@ -23,7 +23,7 @@ My name is Ashwin. Currently an undergraduate student, I enjoy making computers 
     - Anything!!
 
 - 📫 How to reach me: ...
-    - discord: ashwin#6541
+    - discord: vanillaviking.
     - email: ashwinr2k2@gmail.com
 
 - ⚡ Fun fact: ...
