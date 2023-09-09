@@ -26,8 +26,6 @@ My name is Ashwin. Currently an undergraduate student, I enjoy making computers 
     - discord: vanillaviking
     - email: ashwinr2k2@gmail.com
 
-- ⚡ Fun fact: ...
-    - One day I want to be a linux kernel developer
 
 <p align="center">
   <a href="https://github.com/VanillaViking">
