@@ -14,7 +14,6 @@ My name is Ashwin. Currently an undergraduate student, I enjoy making computers 
 
 - 🔭 I’m currently working on ...
     - Zyenyo, a typing test discord bot with stats tracking.
-    - SimplNotes, a markdown-to-html converter written in rust
 
 - 🌱 I’m currently learning ...
     - Rust!
