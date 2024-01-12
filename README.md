@@ -14,6 +14,8 @@ My name is Ashwin. Currently an undergraduate student, I enjoy making computers 
 
 - 🔭 I’m currently working on ...
     - Zyenyo, a typing test discord bot with stats tracking.
+    - Advent of Code 2023 solutions, written in Rust.
+    - Personal Rubik's Cube Timer & statistics tracker.
 
 - 🌱 I’m currently learning ...
     - Rust!
